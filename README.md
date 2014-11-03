@@ -44,7 +44,7 @@ The Ambassador takes the improved DApp back to their local community, for commer
 Hence, beyond doing social good in their community  -- the Ambassadors also have an financial and entrepreneurial incentive: they can build their own DApp bussines on top of it. Bitnation get instant implementation all around the world, and a direct information feedback loop, which helps to develop and improve the governance tools.
 
 
-Selection of Ambassadors:
+Selection of Ambassadors
 ==================
 
 Ambassadors appoint themselves through sending in their resume, biography and photo on the https://www.bitnation.co website, with a motivation letter on why they want to be Ambassadors. 
@@ -69,12 +69,12 @@ Swarmops runs on free software, and is free software itself, further aligning we
 Other Coordination Tools:
 ==================
 
-Skype chats and calls
-Facebook groups
-Meetup groups
-Trello boards
-Google docs
-Google hangout
+1. Skype chats and calls 
+2. Facebook groups
+3. Meetup groups
+4. Trello boards
+5. Google docs
+6. Google hangout
 
 
 Financial Sustainability:
