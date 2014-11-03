@@ -9,21 +9,23 @@ The system is composed of a human-centered, purpose driven partnering approach a
 
 The Bitnation Platform will enable Ambassadors to empower themselves, their families, friends and neighbours to increase, realize and capitalize the value of their collective creativity in solving the problems and satisfying their governance needs.
 
-How Does The Process Work?
 
-Step 1: Research and assessments
+How Does The Process Work?
+==================
+
+### Step 1: Research and assessments
 
 An Ambassador organize meetups in the community to discuss what the community needs may be in the area (land deeds, security, dispute resolution, or anything else). The ambassador can also conduct polls, as well as gathering reports on the subject to gain a better understanding of the problem.
 
 The ambassador identifies one or several key problems, and the Bitnation DApps that can solve them. 
 
-Step 2: Preparation
+### Step 2: Preparation
 
 The Ambassador connects with the other ambassadors to see if someone else have implemented a similar DApp, and be able to learn from their experience.
 
 The Ambassador gets help from Bitnation and the other ambassadors to get tutorials etc, to explain to the local community -- how the blockchain works, and how it can solve their specific problem. 
 
-Step 3: Pilot
+### Step 3: Pilot
 
 The Ambassador conducts a pilot in their community, to test the Bitnation DApp.
 
@@ -31,7 +33,7 @@ The Ambassador records a video of the event, to share and inform others on the p
 
 After the pilot, the Ambassador collects feedback from the participants on possible improvements of the process/ functions, and write it up in a paper, or a blog post for community input.
 
-Step 4: Improving the product
+### Step 4: Improving the product
 
 The Ambassador Network and Bitnation discuss the assessment, and how to improve the DApp. Bitnation incorporates the feedback into the DApp to improve it for other users.
 
@@ -43,6 +45,7 @@ Hence, beyond doing social good in their community  -- the Ambassadors also have
 
 
 Selection of Ambassadors:
+==================
 
 Ambassadors appoint themselves through sending in their resume, biography and photo on the https://www.bitnation.co website, with a motivation letter on why they want to be Ambassadors. 
 
@@ -52,6 +55,7 @@ Ambassadors can only be ejected from the network if they commit active sabotage,
 
 
 Software
+==================
 
 https://github.com/Swarmops/Swarmops
 
@@ -61,7 +65,9 @@ Using Swarmops, the Ambassador network can scale organically across the globe, f
 
 Swarmops runs on free software, and is free software itself, further aligning well with Bitnation’s core values. It is also going to handle Bitnation’s cryptocurrency-based accounting and provide complete transparency as well as large-scale inclusion, providing easy access to resources for the Ambassador network.
 
+
 Other Coordination Tools:
+==================
 
 Skype chats and calls
 Facebook groups
@@ -70,7 +76,9 @@ Trello boards
 Google docs
 Google hangout
 
+
 Financial Sustainability:
+==================
 
 The Governance 2.0 DApp Library will charge a small transaction fee on DApps sold by 3rd party developers (Ambassadors, or others) and by Bitnation paying DApps (there will also be free DApps on the platform, developed by both Bitnation, and by 3rd Party developers. 
 
